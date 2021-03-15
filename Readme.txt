@@ -1,2 +1,2 @@
 Setup:
-Create a Database with the name 'task' and then execute the program
+Create a Database named 'task' and then execute the program
